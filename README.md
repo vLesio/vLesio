@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World!
+I'm student at AGH University of Science and Technology in Kraków, Poland.
+I don't like talking about myself, so let me just finish here.
 
 <!--
 **vLesio/vLesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
