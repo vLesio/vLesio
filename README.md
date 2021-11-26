@@ -1,7 +1,8 @@
 ### Hello World!
 I'm student at AGH University of Science and Technology in Kraków, Poland.
 
-**My site: https://vlesio.github.io** 
+**My site: https://vlesio.github.io**
+**[Azure Site](https://vlesio.z13.web.core.windows.net)**
 
 #### Things I like:
 * Sleeping
