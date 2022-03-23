@@ -14,4 +14,4 @@
 - Mountain hiking ⛰️
 - Currently learning how to play guitar 🎸
 - Amateur bartender 🍹
-- Competetive Flanks 🍻
+- Competitive Flanks 🍻
