@@ -1,5 +1,5 @@
 ## 💬 About me
-- Studying Computer Science and Artificial Intelligence at [AGH University of Science and Technology](https://www.agh.edu.pl) in Cracow, Poland
+- Studying Computer Science and Artificial Intelligence at [AGH University of Science and Technology](https://www.agh.edu.pl) in Kraków, Poland
 - Active technology officer and member of the council at [AGH Code Industry Research Group](https://www.skn.agh.edu.pl/kolo/agh-code-industry-coin/)
 - Currently working on game and application development for mobile devices, multiplayer game servers and APIs
 
