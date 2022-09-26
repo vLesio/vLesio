@@ -13,7 +13,7 @@ Totem Rush is a game we at [AGH CoIn](https://www.skn.agh.edu.pl/kolo/agh-code-i
 
 ## 📬 Contact
 - Feel free to contact me here, on GitHub
-- Private email - 10patiles@gmail.com
+- Private email - patryklesiak.dev@gmail.com
 - University email - patryklesiak@student.agh.edu.pl
 
 ## 🧗 Hobbies
