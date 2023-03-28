@@ -19,7 +19,7 @@ Totem Rush is a game we at [AGH CoIn](https://www.skn.agh.edu.pl/kolo/agh-code-i
 
 #### https://vlesio.itch.io/racing-cart
 
-As our Student Research Group were offered mentoring position on [Hacknarök Hackathon](https://hacknarok.eestec.pl). We decided that it was a great opportunity to show ourselves even more, and as a side-event, organized mini tournament. For this purpose we created [Racing Cart](https://vlesio.itch.io/racing-cart), simple racing game placed in the abyss of space.
+As our Student Research Group were offered mentoring position on [Hacknarök Hackathon](https://hacknarok.eestec.pl). We decided that it was a great opportunity to show ourselves even more and organized mini tournament as a side-event. For this purpose we created [Racing Cart](https://vlesio.itch.io/racing-cart), simple racing game placed in the abyss of space.
 
 ### LogoToma Language
 
