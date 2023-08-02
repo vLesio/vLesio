@@ -1,9 +1,15 @@
 ## 💬 About me
-- Studying Computer Science and Artificial Intelligence at [AGH University of Science and Technology](https://www.agh.edu.pl) in Kraków, Poland
-- Active technology officer and member of the council at [AGH Code Industry Research Group](https://www.skn.agh.edu.pl/kolo/agh-code-industry-coin/)
-- Currently working on game and application development for mobile devices, multiplayer game servers and APIs
+#### Studying Computer Science and Artificial Intelligence at [AGH University of Science and Technology](https://www.agh.edu.pl) in Cracow, Poland
+#### Working at [Sabre](https://www.sabre.com/) as Site Reliability Engineer
+#### Vice Chairman of The Board and Lead TEO Engineer at [AGH Code Industry Research Group](https://www.skn.agh.edu.pl/kolo/agh-code-industry-coin/)
 
 ## :computer: Projects
+
+### Time Tinkerer
+
+#### https://github.com/AGH-Code-Industry/czasoport
+
+Game about intern who's dream is to pass exam to become an agent of the Space Counsil. To do that, he is sent to an unknow world, which he has to save from enxtinction and preserve its resources.
 
 ### Deadlands NPC Generator
 
