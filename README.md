@@ -29,7 +29,7 @@ Know Logo? Meet LogoToma. It is a language we are creating for our university pr
 
 ### Lesiak Wypieki Website
 
-#### https://lesiakwypieki.pl
+#### https://lesiak-wypieki.pl
 
 Simple website created using React. It was for my dad. He likes it.
 
