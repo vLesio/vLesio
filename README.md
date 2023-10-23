@@ -48,6 +48,5 @@ Simple website created using React. It was for my dad. He likes it.
 ## 🧗 Hobbies
 - Dancesport 🕺🏻
 - Mountain hiking ⛰️
-- Currently learning how to play guitar 🎸
 - Amateur bartender 🍹
 - Baking
