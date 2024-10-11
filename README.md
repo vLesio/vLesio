@@ -1,7 +1,7 @@
 ## 💬 About me
 #### Studying Computer Science and Artificial Intelligence at [AGH University of Science and Technology](https://www.agh.edu.pl) in Cracow, Poland
 #### Working at [Sabre](https://www.sabre.com/) as Site Reliability Engineer
-#### Vice Chairman of The Board and Lead TEO Engineer at [AGH Code Industry Research Group](https://www.skn.agh.edu.pl/kolo/agh-code-industry-coin/)
+#### Vice Chairman of The Board and Lead TEO Engineer at [AGH Code Industry](https://coin.agh.edu.pl/)
 
 ## :computer: Projects
 
